@@ -1,0 +1,12 @@
+{
+  "name": "jquery-todo-list",
+  "version": "projet jquery de gestion des tâches",
+  "main": "index.js",
+  "author": "sylvain",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.7.8",
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.3.1"
+  }
+}
